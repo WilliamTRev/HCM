@@ -1,0 +1,6 @@
+For Great Tutorials:
+https://livesql.oracle.com
+
+For Free SQL Coding Challenges: 
+https://platform.stratascratch.com/coding?code_type=7&is_freemium=1
+
