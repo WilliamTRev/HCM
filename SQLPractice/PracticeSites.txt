@@ -1,4 +1,4 @@
-For Great Tutorial:
+For Great Tutorials:
 https://livesql.oracle.com
 
 For Free SQL Coding Challenges: 
