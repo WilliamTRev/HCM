@@ -1,0 +1,22 @@
+1.Display last_name and salary of employees who earn more than $12000;
+ 
+2.display last name and depratment number for employee number 176
+ 
+3.display maximum and minimum salary of employees
+ 
+4.Display last_name and salary of employees whose salary in not in the range of $5000 and $12000
+ 
+5.display last name, job id and start date for the employees with tht last names of Matos and Taylor. Order the query in ascending order by start date.
+ 
+6.display the last name and department number af all employees in departments 20 or 50 in ascending alphabetical order by name.
+7.display the last name and hire date for all employees who were hired in 1994
+ 
+8.display last name and job titile of all employees who do not have a manager
+ 
+9.display last name , salary and commission of all employees who earn commisions sort in descending order of salary and commissions.
+10.display all employee last names in which the third letter of the name is a.
+ 
+11.display  last name of all employees who have both an a and an e in their last name.
+ 
+12.display last name, job and salary for all employees whos jobs are either sales representative or stock clerk and whos salaries are not equal to $2500,$3500 or $7000.
+-----------

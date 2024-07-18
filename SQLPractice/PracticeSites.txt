@@ -1,0 +1,9 @@
+For Great Tutorial:
+https://livesql.oracle.com
+
+For Free SQL Coding Challenges: 
+https://platform.stratascratch.com/coding?code_type=7&is_freemium=1
+
+Docs :
+https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/
+

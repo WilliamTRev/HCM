@@ -1,0 +1,41 @@
+JOINS:
+
+------
+ 
+26. display the last name,job,department number and department name for all employees who work in Toronto.
+ 
+27. display employee' last name and employee number along with their manager's last name and manager number.Label the columns Employee,Emp#,Manager,Mgr# respectively.
+ 
+28. display last name and hire date of all employees hired after the employee Davies
+ 
+29. display last names and hire dates for all employees who were hired before their managers, along with their managers' last names and hire dates.
+ 
+30. display the employee number, last name and salary of all employees who earn more than the average salary.Sort the results in order of ascending salary.
+
+31. display employee number and last name of all employees who work in a department with any employee whose last name contains a u.
+
+32. display the last name and salary of every employee who reports to King.
+
+-----------
+
+33. HR department needs a query that prompts the user for an employee last name.
+
+The query then displays thelast name and hire date of any employee in the same department as the employee whose name they supply(excluding that employee).
+ 
+34. HR department needs a report that displays the last name, department number and job ID of all employees whose department location is 1700.
+ 
+35, Create a report for HR, that displays the department number, last name and jobID for every employee in the Executive department.
+ 
+Set Operator:
+
+-------------
+
+36. HR department needs a list of department IDs for department that do not contain the job ID ST_CLERK . User set operators to create this report.
+ 
+37.HR department nees a list of countries that have no departments located in them.Display
+
+the country ID and the name of the countries.Use set operators to create this report.
+ 
+38.Produce a list of jobs for departments 10,50 and 20 in that order. Display job iD and department ID using set operators.
+ 
+39. Create a report that lists the employee IDs and Job IDs of those employees who currently have a job title that is the same as their job title when they were initially hired by the company(that is they changed their jobs but have now gone back to doing their original job)
